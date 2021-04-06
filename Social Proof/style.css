@@ -1,0 +1,98 @@
+ body{
+    	font-family: Spartan, serif;
+    	text-align: center;
+    	margin: 20px 10px 20px 10px;
+    }
+	.background{
+		background-image: url("img/bg-top.svg"), url("img/bg-bottom.svg");
+		background-repeat: no-repeat;
+		background-position: top left, bottom right;
+		background-size: 300px 300px;
+	}
+    #love{
+    	color: hsl(300, 43%, 22%);
+    	font-weight: bolder;
+    	font-size: 30px;
+    }
+	.first{
+		margin: 20px 0 20px 0;
+		padding: 10px;
+	}
+    #we{
+   		Dark Grayish Magenta: hsl(303, 10%, 53%);
+   		font-weight: 400;
+    }
+    .star{
+    	height: 20px;
+    	width: 20px;
+    	margin: 0 0 10px 0;
+    }
+    .para{
+    	font-weight: bold;
+    	font-size: 15px;
+    }
+	#col{
+		margin-bottom: 60px;
+	}
+	#ire{
+		margin: 40px 0 40px 0;
+	}
+	#anne{
+		margin-top: 60px;
+	}
+    .style{
+   		background-color: hsl(300, 24%, 96%);
+   		border-radius: 10px;
+   		height: 70px;
+   		width: 400px;
+   		margin: 10px 0 10px 0;
+   		padding: 5px;
+   	}
+   	.style > p {
+   		margin-top: 0px;
+   	}
+   	#box2{
+   		margin-left: 20px;
+   	}
+   	#box3{
+   		margin-left: 40px;
+   	}
+   	.testi{
+   		background-color: hsl(300, 43%, 22%);
+   		margin: 20px;
+   		border-radius: 10px;
+   	}
+	.testi > p{
+		overflow-wrap: break-word;
+	}
+   	figure{
+   		margin-top: 10px;
+   		color: white;
+   		text-align: left;
+   		margin: 30px 0 0 90px;
+   	}
+   	figcaption{
+   		color: hsl(333, 80%, 67%);
+   	}
+   	.colton{
+   		float: left;
+   		width: 50px;
+   		height: 50px;
+   		border-radius: 50%;
+   		display: inline;
+   		margin: 30px 0 0 15px;
+   	}
+   	.say{
+    	color: hsl(300, 24%, 96%);
+		text-align: center;
+    }
+	.clear{
+		clear: both;
+	}
+      .attribution {
+        font-size: 11px;
+        text-align: center;
+      }
+      .attribution a {
+        color: hsl(228, 45%, 44%);
+      }
