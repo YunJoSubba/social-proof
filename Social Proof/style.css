@@ -62,9 +62,6 @@
    		margin: 20px;
    		border-radius: 10px;
    	}
-	.testi > p{
-		overflow-wrap: break-word;
-	}
    	figure{
    		margin-top: 10px;
    		color: white;
